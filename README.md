@@ -50,4 +50,13 @@ e. Seaborn
 ![Alt text](image-1.png)
 ## Link to webpage -https://diabetes-prediction-l6to.onrender.com
 ![Alt text](image-2.png)
+
+
+## Contact
+
+- **mutasim alkamil**
+- [LinkedIn](https://www.linkedin.com/in/mutasim-al-kamil-40a29931)
+- Email: asoomkamel193@gmail.com
+-https://github.com/Asoomkamel 
+
 ## Thank you
